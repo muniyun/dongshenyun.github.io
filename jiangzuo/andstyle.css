@@ -21,7 +21,7 @@ input,select,button{font:12px Verdana,Arial,Tahoma;vertical-align:middle;border-
 .dqbf{line-height:50px;color:#34332F}
 .dqbf a{color:#503A2B}
 .dqbf a:hover{color:#A20109;text-decoration:none;}
-.play{width:100%; overflow:hidden; margin-bottom:15px; background:url(play_topl.jpg) no-repeat 0 0 #323232}
+.play{width:70%; overflow:hidden; margin-bottom:15px; background:url(play_topl.jpg) no-repeat 0 0 #323232}
 .bofang{width:730px; background:#000; float:left}
 .bflb{ float:right; height:450px; width:30%; }
 .bflb b{ display:block; height:40px; line-height:40px; color:#EAEAEA; text-align:center;}
