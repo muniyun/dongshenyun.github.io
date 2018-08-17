@@ -22,7 +22,7 @@ input,select,button{font:12px Verdana,Arial,Tahoma;vertical-align:middle;border-
 .dqbf a{color:#503A2B}
 .dqbf a:hover{color:#A20109;text-decoration:none;}
 .play{width:70%; overflow:hidden; margin-bottom:15px; background:url(play_topl.jpg) no-repeat 0 0 #323232}
-.bofang{width:730px; background:#000; float:left}
+.bofang{width:100%; background:#000; float:left}
 .bflb{ float:right; height:450px; width:30%; }
 .bflb b{ display:block; height:40px; line-height:40px; color:#EAEAEA; text-align:center;}
 .bflb ul{ width:100%; height:342px; overflow: auto;}
@@ -34,7 +34,7 @@ input,select,button{font:12px Verdana,Arial,Tahoma;vertical-align:middle;border-
 .bflb em{ display:block; width:100%; margin-left:16px; height:30px; line-height:30px; border-bottom:1px dashed #535353; text-align:center; margin-bottom:4px;}
 .bflb em a{ color:#ADADAD; font-size:12px;}
 /*------播放页左侧------*/
-.play_l{float:left;width:680px;}
+.play_l{float:left;width:30%;}
 .play_l_01 b{height:25px;line-height:25px;padding:10px 0 0 12px;display:block;}
 .play_l_01 ul{margin:10px 0;overflow:hidden;zoom:1;}
 .play_l_01 ul li{float:left;width:144px;margin:5px 13px;display:inline;}
