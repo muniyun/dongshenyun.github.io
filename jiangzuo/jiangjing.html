@@ -4,8 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="applicable-device" content="pc">
 <link href="title.ico" rel="shortcut icon"/>
-<link type="text/css" rel="stylesheet" href="./style.css" />
- <script>
+<script>
 document.write("<title>");
 document.write("&#19996;&#21319;&#30340;&#20315;&#27861;-");
 document.write(decodeURI(GetQueryString("title")));
@@ -53,9 +52,11 @@ document.write("</title>");
     system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
     if(system.win||system.mac||system.xll){//&#22914;&#26524;&#26159;&#30005;&#33041;&#36339;&#36716;&#21040;&#30334;&#24230;  
         document.write("<link href='./css/win.css' rel='stylesheet' type='text/css'>");
+	    document.write("<link href='./style.css' rel='stylesheet' type='text/css'>");
 		document.write("<iframe src='http://player.youku.com/embed/XMzYyMjE1NzYyOA==' name='donghua' quality='high' width='715' height='450' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash' isAutoPlay=true></iframe>");
     }else{  //&#22914;&#26524;&#26159;&#25163;&#26426;,&#36339;&#36716;&#21040;&#35895;&#27468;
         document.write("<link href='./css/android.css' rel='stylesheet' type='text/css'>");
+	    document.write("<link href='./andstyle.css' rel='stylesheet' type='text/css'>");
 		document.write("<iframe src='http://player.youku.com/embed/XMzYyMjE1NzYyOA==' name='donghua' quality='high' width='75%' height='450' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash' isAutoPlay=true></iframe>");
 
     }
