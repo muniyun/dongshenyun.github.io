@@ -12,7 +12,7 @@ input,select,button{font:12px Verdana,Arial,Tahoma;vertical-align:middle;border-
 .list_sp b { height:50px; line-height:50px; width:100%; border-bottom:1px solid #d1c0a4; padding-left:50px; display:block; font-size:20px; color:#741b13; background:url(in_xjrm2.jpg) no-repeat 6px 14px;}
 .list_sp ul{ overflow:hidden;zoom:1; padding-top:20px;}
 .list_sp ul li{float:left;width:50%;margin:0 9px 12px 12px;display:inline;}
-.list_sp ul li span{width:144px;height:24px;line-height:24px;text-align:center;font-size:12px;display:block;overflow:hidden;}
+.list_sp ul li span{width:50%;height:24px;line-height:24px;text-align:center;font-size:12px;display:block;overflow:hidden;}
 .list_sp ul li span a{color:#353A36;}
 .list_sp ul li span a:hover{color:#A20109;}
 
