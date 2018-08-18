@@ -1,12 +1,4 @@
 @charset "gb2312";
-body{font-size:14px;color:#323232;margin:0;padding:0;font-family:"Microsoft YaHei",微软雅黑;}
-div,p,ul,li,span,h1,dl,dd,dt{margin:0;padding:0;}
-ul,li{list-style:none;}
-a img,img{border:0;}
-a{text-decoration:none;color:#323232;}
-a:hover{text-decoration:underline;color:#A00000;}
-em,i{font-style:normal;}
-input,select,button{font:12px Verdana,Arial,Tahoma;vertical-align:middle;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;border-top-style:none;border-right-style:none;border-bottom-style:none;border-left-style:none;outline:medium;-webkit-border-radius:0;}
 /*-----新视频列表页----*/
 .list_sp { width:100%; margin-bottom:10px; overflow:hidden;}
 .list_sp b { height:50px; line-height:50px; width:100%; border-bottom:1px solid #d1c0a4; padding-left:50px; display:block; font-size:20px; color:#741b13; background:url(in_xjrm2.jpg) no-repeat 6px 14px;}
