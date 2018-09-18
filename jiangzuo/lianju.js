@@ -366,4 +366,78 @@ document.write(
 
 "<li><a href='http://player.youku.com/embed/XMTI5NjgxMjg4NA==' target='donghua'>015【学诚法师心语】幸福在哪里</a></li>");}
 
+if(GetQueryString('v')==10006){
+document.write(
 
+"<li><a href='http://player.youku.com/embed/XMTQ2MDc4MzA5Mg==' target='donghua'>此生必看之动画片  认识佛教_1</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ2MDc4NzY0MA==' target='donghua'>此生必看之动画片  认识佛教_2</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ2MDc4ODEwNA==' target='donghua'>此生必看之动画片  认识佛教_3</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ2MDc4OTIxNg==' target='donghua'>此生必看之动画片  认识佛教_4</a></li>"
+
+);}
+
+if(GetQueryString('v')==10007){
+document.write(
+
+
+"<li><a href='http://player.youku.com/embed/XMjg1MjYyODQ0OA==' target='donghua'>郑义门（壹）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMjg1MjgyMDU0OA==' target='donghua'>郑义门（贰）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMjg1MjgyMDY0MA==' target='donghua'>郑义门（叁）</a></li>"
+
+);}
+
+if(GetQueryString('v')==10008){
+document.write(
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDU3MjI0' target='donghua'>01集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDU3MTYw' target='donghua'>02集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDU2MTg0' target='donghua'>03集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDU0ODQw' target='donghua'>04集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDUzODQ4' target='donghua'>05集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDUyMjgw' target='donghua'>06集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDUxNzMy' target='donghua'>07集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDQ5Nzgw' target='donghua'>08集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDQ5MTAw' target='donghua'>09集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDQ3ODY0' target='donghua'>10集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDczNDA0' target='donghua'>11集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDQ1MTc2' target='donghua'>12集-德行天下</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY3NDMxNzg4' target='donghua'>13集-德行天下</a></li>"
+
+);}
+
+if(GetQueryString('v')==10009){
+document.write(
+
+
+"<li><a href='http://player.youku.com/embed/XMTQ2MjExMDA5Ng==' target='donghua'>此生必看之动画片 了凡四训_1</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ2MjExMzQ1Mg==' target='donghua'>此生必看之动画片 了凡四训_2</a></li>","<li><a href='http://player.youku.com/embed/XMTQ2MjE4Nzg4MA==' target='donghua'>此生必看之动画片 了凡四训_3</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ2MjE4OTE1Mg==' target='donghua'>此生必看之动画片 了凡四训_4</a></li>");}
+
+if(GetQueryString('v')==10010){
+document.write(
+
+
+"<li><a href='http://player.youku.com/embed/XMTQ1NDIzNzk0MA==' target='donghua'>目连传奇1</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ1NDIzODc3Ng==' target='donghua'>目连传奇2</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XMTQ1NDIzOTIzNg==' target='donghua'>目连传奇_3</a></li>");}
