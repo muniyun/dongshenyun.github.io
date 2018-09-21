@@ -1,0 +1,13 @@
+
+上传文件大小限制
+
+git config http.postBuffer 524288000
+
+git config -l
+
+
+
+上传文件
+git add yourLargeFile.pdf
+git commit -m "Add Large file"
+git push -u origin master
