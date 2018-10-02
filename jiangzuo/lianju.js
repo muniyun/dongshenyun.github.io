@@ -483,9 +483,9 @@ document.write(
 
 "<li><a href='http://player.youku.com/embed/XNjY5ODg1NjUy' target='donghua'> 第02集_神奇的手表</a></li>",
 
-"<li><a href='http://player.youku.com/embed/XNjcwNTMxMjI0' target='donghua'>中华弟子规  第一季 第03集__父亲的礼物</a></li>",
+"<li><a href='http://player.youku.com/embed/XNjcwNTMxMjI0' target='donghua'>第03集__父亲的礼物</a></li>",
 
-"<li><a href='http://player.youku.com/embed/XNjcwNTMyMTcy' target='donghua'>中华弟子 规第一季 第04集_行孝要及时</a></li>",
+"<li><a href='http://player.youku.com/embed/XNjcwNTMyMTcy' target='donghua'>第04集_行孝要及时</a></li>",
 
 "<li><a href='http://player.youku.com/embed/XNjcwNTMzMDU2' target='donghua'> 第05集_蜜语耳机</a></li>",
 
@@ -533,7 +533,7 @@ document.write(
 
 "<li><a href='http://player.youku.com/embed/XNjcwNTgwODIw' target='donghua'> 第27集_义犬依依</a></li>",
 
-"<li><a href='http://player.youku.com/embed/XNjcwNTgxODMy' target='donghua'>中忽地矮柜 第一季 第28集_换梦</a></li>",
+"<li><a href='http://player.youku.com/embed/XNjcwNTgxODMy' target='donghua'>第28集_换梦</a></li>",
 
 "<li><a href='http://player.youku.com/embed/XNjcwNTgyNjQ0' target='donghua'> 第29集_从富贵到贫穷</a></li>",
 
