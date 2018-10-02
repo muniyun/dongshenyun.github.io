@@ -441,3 +441,167 @@ document.write(
 "<li><a href='http://player.youku.com/embed/XMTQ1NDIzODc3Ng==' target='donghua'>目连传奇2</a></li>",
 
 "<li><a href='http://player.youku.com/embed/XMTQ1NDIzOTIzNg==' target='donghua'>目连传奇_3</a></li>");}
+
+
+if(GetQueryString('v')==10011){
+document.write(
+
+"<li><a href='http://player.youku.com/embed/XNzAwMzI1MTcy' target='donghua'>《中华弟子规》第二季  01（1-9）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAyOTY3OTg0' target='donghua'>中华弟子规第二集02（10-18）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAyOTcwMDky' target='donghua'>中华弟子规第二季03（19-27）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAyOTY5NDEy' target='donghua'>中华弟子规第二季04（28-36）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAzMjkzMTY4' target='donghua'>中华弟子规第二季05（37-45）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAzMzYzODA0' target='donghua'>中华弟子规第二季06（46-54）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAzNjY4OTA0' target='donghua'>中华弟子规第二季07（55-63）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAzNjgwMzk2' target='donghua'>中华弟子规第二季08（64-72）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAzNzA2ODQw' target='donghua'>中华弟子规第二季09（73-81）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzA0NjkzNzg0' target='donghua'>中华弟子规第二季10（82-90）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzA0NjYwMTA0' target='donghua'>中华弟子规第二季11（91-100）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzAzODM1MDMy' target='donghua'>中华弟子规第二季12（101-107）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzA0MjIyMzc2' target='donghua'>中华弟子规第二季13（108-114）</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNzA0MjI5Mzgw' target='donghua'>中华弟子规第二季14（115-120）</a></li>");}
+
+
+
+if(GetQueryString('v')==10012){
+document.write(
+
+"<li><a href='http://player.youku.com/embed/XNjY5ODg0MzY0' target='donghua'> 第01集_祥云宝宝</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjY5ODg1NjUy' target='donghua'> 第02集_神奇的手表</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTMxMjI0' target='donghua'>中华弟子规  第一季 第03集__父亲的礼物</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTMyMTcy' target='donghua'>中华弟子 规第一季 第04集_行孝要及时</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTMzMDU2' target='donghua'> 第05集_蜜语耳机</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTM0MDg4' target='donghua'> 第06集_缩小魔镜</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTM3OTky' target='donghua'> 第07集_神奇的护膝</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTM5NTI4' target='donghua'> 第08集_妈妈的生日礼物</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTQwNDUy' target='donghua'> 第09集_同心存钱罐</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTQ0NzUy' target='donghua'> 第10集_玩具变形记</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTQ2MjU2' target='donghua'> 第11集_应答的礼节</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTQ3Mjk2' target='donghua'> 第12集_一双戏靴</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTUxMDU2' target='donghua'> 第13集_妈妈我爱你</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTUyMTA4' target='donghua'> 第14集_爱护大地</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTU1MTQ0' target='donghua'> 第15集_兵马俑风波</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTU2MDQ4' target='donghua'> 第16集_世间一日帽下一年</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTU3Mjc2' target='donghua'> 第17集_缩水被子</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTU4MzUy' target='donghua'> 第18集_能量大挪移</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTU5MTA0' target='donghua'> 第19集_万能画板</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTc1NTQ4' target='donghua'> 第20集_虚拟卫星</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTc2Mjk2' target='donghua'> 第21集_真假小禾</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTc3NDA4' target='donghua'> 第22集_借书风波</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTc4MTM2' target='donghua'> 第23集_美食小神厨</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTc4NzQw' target='donghua'> 第24集_化蝶记</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTc5Mzcy' target='donghua'> 第25集_加速陀螺</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTgwMDg4' target='donghua'> 第26集_催眠豆荚</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTgwODIw' target='donghua'> 第27集_义犬依依</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTgxODMy' target='donghua'>中忽地矮柜 第一季 第28集_换梦</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTgyNjQ0' target='donghua'> 第29集_从富贵到贫穷</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwNTgzMjUy' target='donghua'> 第30集_主仆大变身</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTQzNzM2' target='donghua'>31集_水晶杯</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTQ0NTY0' target='donghua'> 第32集_珍爱书籍</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTU1NzEy' target='donghua'> 第33集_一勤天下无难事</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTU2NjA0' target='donghua'> 第34集_爱在身边</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTU3NDY4' target='donghua'> 第35集_白树叶</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTU4MjQw' target='donghua'> 第36集_天鹅之羽1</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTYwMzAw' target='donghua'> 第37集_天鹅之羽2</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTYxMDQ0' target='donghua'> 第38集_天鹅之羽3</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTYxNTgw' target='donghua'> 第39集_天鹅之羽4</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTYyMjU2' target='donghua'> 第40集_感恩香皂</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTYzMTM2' target='donghua'> 第41集—两个妈妈</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTYzOTI0' target='donghua'> 第42集_虫虫餐厅</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTY0NzIw' target='donghua'> 第43集_在磨练中成长</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTY1NDk2' target='donghua'> 第44集_口袋宝宝</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTY2Mjky' target='donghua'> 第45集_信犬小京巴1</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTY3MTUy' target='donghua'> 第46集_信犬小京巴2</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTY5MjIw' target='donghua'> 第47集_信犬小京巴3</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTg0NjI0' target='donghua'> 第48集_信犬小京巴4</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTcwMzk2' target='donghua'> 第49集_信犬小京巴5</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTcxMDY0' target='donghua'> 第50集_信犬小京巴6</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTcxODM2' target='donghua'> 第51集_谨慎交友</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTcyNTUy' target='donghua'> 第52集_善恶之间</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc0MDg0' target='donghua'> 第53集_白雪</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc0ODky' target='donghua'> 第54集_诚实是宝</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc1NjE2' target='donghua'> 第55集_超越自己</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc2Mzgw' target='donghua'> 第56集_魔法泡泡</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc3MjAw' target='donghua'> 第57集_许愿瓶</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc4MTQ4' target='donghua'> 第58集_榜样的力量</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc4ODg0' target='donghua'> 第59集_突围行动</a></li>",
+
+"<li><a href='http://player.youku.com/embed/XNjcwOTc5NTIw' target='donghua'> 第60集_竞赛的真谛</a></li>"
+
+);}
+
+
+
+
+
