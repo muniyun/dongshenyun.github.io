@@ -185,6 +185,9 @@ document.getElementById('con_menu_1').style.display='block';
 function coni(){
 document.getElementById('con_menu_9').style.display='block';
 }
+function conj(){
+document.getElementById('con_menu_10').style.display='block';
+} 
  //&#24179;&#21488;&#12289;&#35774;&#22791;&#21644;&#25805;&#20316;&#31995;&#32479;  
 var system ={  
 win : false,  
@@ -243,6 +246,9 @@ if(GetQueryString("f")==8){
 if(GetQueryString("f")==9){
 	document.write("<body onload='coni()'>");
 }
+if(GetQueryString("f")==10){
+	document.write("<body onload='conj()'>");
+} 
 </script>
  <div class="header"><p>冬参佛法</p></div>
  <div id="nav">
@@ -255,6 +261,7 @@ if(GetQueryString("f")==9){
          <li id="menu5"><a href="index.html?f=4&v=20090">妙莲语录</li>
          <li id="menu6"><a href="index.html?f=5&v=20070">昌臻语录</li>
 	 <li id="menu7"><a href="index.html?f=6&v=20099">本焕语录</li>
+         <li id="menu10"><a href="index.html?f=10&v=20066">其它语录</li>
          <li id="menu8"><a href="index.html?f=7&v=20000">善文</li>
 		<li id="menu9" onclick="setTab('menu',9,9)"><a href="#">经义</li>
 		<li><a href="http://dongshenyun.github.io/2">礼佛</li> 	 
@@ -408,6 +415,24 @@ goPage(1,50,7);
 
 </div>
 </div>
+<div id="con_menu_10" style="display:none">
+<div class="shipin">
+<div class="list_sp">
+				<ul id="idData_10">
+					        
+				<center><script type="text/javascript" src="qita.js"></script></center>     
+                   
+
+  
+				</ul>
+			</div>
+<script src="ZLpages.js"></script>     	
+<center><div class="pages" id="barcon_10"></div></center>
+<script> 
+goPage(1,25,10); 
+</script> 
+</div>
+</div>  
 <div id="con_menu_8" style="display:none">
 <div class="shipin">
 <div class="list_sp">
