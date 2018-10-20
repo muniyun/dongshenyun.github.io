@@ -1,0 +1,128 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="applicable-device" content="pc">
+<link href="title.ico" rel="shortcut icon"/>
+
+ <script>
+document.write("<title>");
+document.write("&#19996;&#21319;&#30340;&#20315;&#27861;-");
+document.write(decodeURI(GetQueryString("title")));
+document.write("</title>");
+  function GetQueryString(name) {  
+    var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");  
+    var r = window.location.search.substr(1).match(reg);  //获取url中"?"符后的字符串并正则匹配
+    var context = "";  
+    if (r != null)  
+         context = r[2];  
+    reg = null;  
+    r = null;  
+    return context == null || context == "" || context == "undefined" ? "" : context;  
+}
+var c=GetQueryString("v");
+ </script>
+</head>
+ <body>
+ <div id="header"><div class="j">&#19996;&#21319;&#30340;&#20315;&#27861;</div></div>
+ <div id="nav">
+      <ul>
+	     <li><a href="index.html">首页</a></li>
+         <li><a href="index.html">&#35270;&#39057;1</a></li>
+         <li><a href="index.html?f=1">&#35270;&#39057;2</a></li>
+         <li><a href="index.html?f=2">&#35270;&#39057;3</a></li>
+ 
+         <li><a href="index.html?f=3">&#35270;&#39057;4</a></li>
+         <li><a href="index.html?f=4">&#35270;&#39057;5</a></li>
+         <li><a href="index.html?f=5">&#35270;&#39057;6</a></li>
+		 <li><a href="index.html?f=6">&#35270;&#39057;7</a></li>
+		 <li><a href="index.html?f=7">&#35270;&#39057;8</a></li>
+    </ul>
+ </div>
+ <div id="main">
+ <div class="g"></div>
+ <center>
+<center> <script>var a=GetQueryString("title"); b=decodeURI(a);  document.write(b); </script></center> 
+<script>
+var system ={};  
+    var p = navigator.platform;       
+    system.win = p.indexOf("Win") == 0;  
+    system.mac = p.indexOf("Mac") == 0;  
+    system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
+    if(system.win||system.mac||system.xll){//&#22914;&#26524;&#26159;&#30005;&#33041;&#36339;&#36716;&#21040;&#30334;&#24230;  
+        document.write("<link href='../css/win.css' rel='stylesheet' type='text/css'>");
+		
+    }else{  //&#22914;&#26524;&#26159;&#25163;&#26426;,&#36339;&#36716;&#21040;&#35895;&#27468;
+        document.write("<link href='../css/android.css' rel='stylesheet' type='text/css'>");
+		
+    }
+	
+	
+	 </script>
+	 <div id="d1" style="display:none;">
+ 
+					   <ul id="myUL">        
+				   <script charset="utf-8" type="text/javascript" src="cha.js"></script>	
+ 
+
+
+
+
+   </ul> 
+
+
+ 
+  </div>
+
+<script>
+function myFunction2() { 
+var b=decodeURI(c);
+//input.value=a;
+var input, filter, ul, li, a, i; 
+    input = document.getElementById('myInput'); 
+    filter =b.toUpperCase(); 
+    ul = document.getElementById("myUL"); 
+    li = ul.getElementsByTagName('li'); 
+    d=document.getElementById("d1"); 
+    // 循环所有列表，查找匹配项 
+    for (i = 0; i < li.length; i++) { 
+      a = li[i].getElementsByTagName("a")[0]; 
+      if (a.innerHTML.toUpperCase().indexOf(filter) > -1) { 
+        //setTimeout("myFunction()",1000);
+		li[i].style.display = "";
+        d.style.display = "block";
+        		
+      } else { 
+        li[i].style.display = "none"; 
+		//d1.style.display = "none";
+        
+      } 
+	if(filter==""){
+	  d.style.display = "none";
+     } 
+    }  
+//}
+//}
+
+}
+
+window.onload=function()
+{
+    myFunction2();
+}
+
+
+
+</script>
+
+
+
+
+
+
+
+</center>
+ </div>
+<div id="footer"><center><div class="u">&#22238;&#21521;:&#24895;&#27492;&#21151;&#24503;&#31181;&#21892;&#26681;&#65292;&#32047;&#19990;&#24616;&#20146;&#21516;&#27838;&#24681;&#12290;&#30001;&#27492;&#35299;&#33073;&#35832;&#33510;&#24700;&#65292;&#20849;&#35777;&#33769;&#25552;&#24230;&#26377;&#24773;!</div></center></div>
+ </body>
+ </html>  
