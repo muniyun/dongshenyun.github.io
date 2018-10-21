@@ -7,7 +7,7 @@
 
  <script>
 document.write("<title>");
-document.write("冬参佛法-");
+document.write("&#19996;&#21319;&#30340;&#20315;&#27861;-");
 document.write(decodeURI(GetQueryString("title")));
 document.write("</title>");
   function GetQueryString(name) {  
@@ -24,7 +24,7 @@ var c=GetQueryString("v");
  </script>
 </head>
  <body>
- <div id="header"><div class="j">冬参佛法</div></div>
+ <div id="header"><div class="j">&#19996;&#21319;&#30340;&#20315;&#27861;</div></div>
  <div id="nav">
       <ul>
 	     <li><a href="index.html">首页</a></li>
@@ -50,30 +50,70 @@ var system ={};
     system.mac = p.indexOf("Mac") == 0;  
     system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
     if(system.win||system.mac||system.xll){//&#22914;&#26524;&#26159;&#30005;&#33041;&#36339;&#36716;&#21040;&#30334;&#24230;  
-        document.write("<link href='./css/win.css' rel='stylesheet' type='text/css'>");
+        document.write("<link href='../css/win.css' rel='stylesheet' type='text/css'>");
 		
     }else{  //&#22914;&#26524;&#26159;&#25163;&#26426;,&#36339;&#36716;&#21040;&#35895;&#27468;
-        document.write("<link href='./css/android.css' rel='stylesheet' type='text/css'>");
+        document.write("<link href='../css/android.css' rel='stylesheet' type='text/css'>");
 		
     }
-</SCRIPT>
-	 <div>
- <ul>
+	
+	
+	 </script>
+	 <div id="d1" style="display:none;">
  
- <script charset="utf-8" type="text/javascript" src="cha.js"></script>
-<script charset="utf-8" type="text/javascript" src="cha2.js"></script>
+					   <ul id="myUL">        
+				   <script charset="utf-8" type="text/javascript" src="chaxun.js"></script>	
+ 
+
+
+   </ul> 
+
 
  
- </ul>
- </div> 
+  </div>
+
+<script>
+function myFunction2() { 
+var b=decodeURI(c);
+//input.value=a;
+var filter, ul, li, a, i; 
+    filter =b.toUpperCase(); 
+    ul = document.getElementById("myUL"); 
+    li = ul.getElementsByTagName('li'); 
+    d=document.getElementById("d1"); 
+    // 循环所有列表，查找匹配项 
+    for (i = 0; i < li.length; i++) { 
+      a = li[i].getElementsByTagName("a")[0]; 
+      if (a.innerHTML.toUpperCase().indexOf(filter) > -1) { 
+        //setTimeout("myFunction()",1000);
+		li[i].style.display = "";
+        d.style.display = "block";
+        		
+      } else { 
+        li[i].style.display = "none"; 
+		//d1.style.display = "none";
+        
+      } 
+	if(filter==""){
+	  d.style.display = "none";
+     } 
+    }  
+//}
+//}
+
+}
+
+window.onload=function()
+{
+    myFunction2();
+}
 
 
 
+</script>
 
-<div id="dd" style="overflow:scroll;overflow-x:hidden;overflow-y:hidden">
- 
-<script type="text/javascript" src="fojing.js"></script>
-</div>
+
+
 
 
 
